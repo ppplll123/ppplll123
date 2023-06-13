@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/peterlewinski" target="blank"><img src="https://img.shields.io/twitter/follow/peterlewinski?logo=twitter&style=for-the-badge" alt="peterlewinski" /></a> </p>
 
-- 🔭 I’m currently working on [FaceReader Online](https://www.facereader-online.com/)
+- 🔭 I’m currently working on [FaceReader Online](https://www.facereader-online.com/) (Co-founder)
 
 - 🌱 I’m currently learning **React Native**
 
