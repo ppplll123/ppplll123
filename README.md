@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
-<h1 align="center">Hi 👋, I'm Peter Lewinski</h1>
+<h1 align="center">Hi 👋, I'm Peter Lewinski, PhD</h1>
 <h3 align="center">I am a frontend developer with a strong passion for developing data-driven web applications with a great user experience</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
