@@ -1,32 +1,15 @@
-![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
-<h1 align="center">Hi 👋, I'm Peter Lewinski, PhD</h1>
+
+
 <h3 align="center">I am a frontend developer with a strong passion for developing data-driven web applications with a great user experience</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
-<p align="left"> <a href="https://twitter.com/peterlewinski" target="blank"><img src="https://img.shields.io/twitter/follow/peterlewinski?logo=twitter&style=for-the-badge" alt="peterlewinski" /></a> </p>
-
-- 🔭 I’m currently working on [FaceReader Online](https://www.facereader-online.com/) (Co-founder)
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Parabots (ChatGPT 4+ fine-tuning as Service)](https://parabots.nl/)
-
-- 🤝 I’m looking for help with [VicarAnalytics Dashboard](http://dashboard.vicaranalytics.com/)
-
-- 📝 I regularly write articles on [https://loop.frontiersin.org/people/175740/editorial](https://loop.frontiersin.org/people/175740/editorial)
-
-- 📫 How to reach me **peter@smr.nl**
-
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/peterlewinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterlewinski" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peterlewinski-phd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peterlewinski-phd" height="30" width="40" /></a>
-<a href="https://www.behance.net/peterlewinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="peterlewinski" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
